@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: #fff;
+}
+h1{
+    margin-left: 20px;
+}
+
+.imgRetrato{
+    margin-right: 20px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 10px;
+}
+section{
+    display:flex;
+    flex-direction: column;
+    width:90%;
+    margin: 20px auto;
+}
+
+article{
+    margin-top: 15px;
+    padding: 20px;
+    background-color:rgb(146, 205, 245);
+    border-radius: 20px;
+}
+li{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.tituloArticulo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tituloArticulo h4{
+    margin-left: 22px;
+}
+ul p{
+    margin-left: 15px;
+    font-size: 15px;
+}
+i{
+    font-size: 25px;
+}
+
+/* h4{
+    text-align: center;
+} */

@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5b329780365f02e437a230ae/1621025043654-GS80B6V12L4369SL647X/amazon2.jpg?format=500w") ;
+}
+h1{
+
+    color: brown;
+}
+img{
+    width: 400px;
+    border-radius: 30px;
+}
+.divClass{
+    text-align: center;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aliceblue;
+    padding: 50px;
+    border: solid 1px #000;
+    margin: auto;
+    border-radius: 30px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
